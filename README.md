@@ -3,10 +3,11 @@
 # Table of Contents
 
 1. [Description](#Description)
-2. [License](#License)
-3. [Badges](#Badges)
-4. [Questions](#Questions)
-5. [Application Preview](#Application-Preview)
+2. [Application Preview](#Application-Preview)
+3. [Application Link](#Application-Link)
+4. [License](#License)
+5. [Badges](#Badges)
+6. [Questions](#Questions)
 
 # Description
 
@@ -18,6 +19,8 @@ Here you can find some information about me and see some of the applications I h
 
 Here is a preview of my web application:  
 ![](Assets\My-Portfolio-App.JPG)
+
+# Application Link
 
 # License
 
