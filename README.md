@@ -22,6 +22,8 @@ Here is a preview of my web application:
 
 # Application Link
 
+https://japluas93.github.io/Julian-Pluas-Portfolio/
+
 # License
 
 MIT
